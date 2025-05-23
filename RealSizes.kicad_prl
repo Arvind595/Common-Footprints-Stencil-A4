@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -113,7 +113,7 @@
   "project": {
     "files": [
       {
-        "name": "RealSizes.kicad_sch",
+        "name": "RealSizes.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
@@ -125,7 +125,7 @@
         }
       },
       {
-        "name": "RealSizes.kicad_pcb",
+        "name": "RealSizes.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
