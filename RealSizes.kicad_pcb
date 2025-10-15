@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Packages")
-		(date "2025-05-13")
-		(rev "1.0")
+		(date "2025-10-15")
+		(rev "1.1")
 		(company "MSPL")
 		(comment 1 "Aravind")
 		(comment 2 "Design Team")
