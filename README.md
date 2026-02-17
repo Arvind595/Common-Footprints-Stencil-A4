@@ -2,8 +2,10 @@
 
 Add these on the back
 
-SMD PACKAGE   	DIMENSIONS   	DIMENSIONS   	SMD PACKAGE   
-TYPE inches	mm	inches	TYPE mm
+--------------------------------------------
+SMD PACKAGE   	
+--------------------------------------------
+METRIC			INCHES
 2920	7.4 x 5.1	0.29 x 0.20	7451
 2917	7.3 x 4.3	0.29 x 0.17	7343
 2725	6.9 x 6.3	0.27 x 0.25	6863
@@ -25,3 +27,4 @@ TYPE inches	mm	inches	TYPE mm
 0402	1.0 x 0.5	0.04 x 0.02	1005
 0201	0.6 x 0.3	0.02 x 0.01	0603
 01005	0.4 x 0.2	0.016 x 0.008	0402
+---------------------------------------------

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Desktop")(type "KiCad")(uri "C:/Users/MINI/Desktop.pretty")(options "")(descr ""))
+  (lib (name "SMAJ26A")(type "KiCad")(uri "C:/Arvind/Downloads 2025/SMAJ26A")(options "")(descr ""))
+  (lib (name "SMBJ20A")(type "KiCad")(uri "C:/Arvind/Downloads 2025/SMBJ20A")(options "")(descr ""))
+  (lib (name "SMCJ48A")(type "KiCad")(uri "C:/Arvind/Downloads 2025/SMCJ48A")(options "")(descr ""))
+  (lib (name "SMDJ60CA")(type "KiCad")(uri "C:/Arvind/Downloads 2025/SMDJ60CA")(options "")(descr ""))
+  (lib (name "SMF45A")(type "KiCad")(uri "C:/Arvind/Downloads 2025/SMF45A")(options "")(descr ""))
+)
